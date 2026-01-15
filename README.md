@@ -10,7 +10,7 @@
 - 🚀 I build interactive, polished web experiences using modern React tooling.
 - 🛠️ Learning and shipping projects with Next.js for SSR/SSG and Sanity as a headless CMS.
 - 🎭 I add polish and delightful interactions using Framer Motion and Anime.js, and experiment with 3D using Three.js.
-- 📚 When I'm not coding, I dive into webnovels, webtoons, and anime.
+- 📚 When I’m not coding, I dive into webnovels, webtoons, and anime.
 
 ---
 
@@ -30,16 +30,6 @@
 
 ---
 
-## 📈 Contributions
-
-<p align="center">
-  <a href="https://github.com/AsuraX-X">
-    <img src="https://ghchart.rshah.org/AsuraX-X" alt="AsuraX-X's GitHub contributions chart" />
-  </a>
-</p>
-
----
-
 ## 📬 Contact Me
 
 - 📞 Main: +233544936704  
@@ -48,18 +38,8 @@
 
 ---
 
-## 🌟 Fun Fact
-
-> "I believe every bug has a story and every feature is a plot twist!"
-
----
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&center=true&vCenter=true&width=640&lines=React+Developer+%E2%9C%8A;Next.js+Explorer+%F0%9F%9A%80;Framer+Motion+%26+3D+Enthusiast+%F0%9F%8C%8C">
 </p>
 
 ---
-
-<!--
-✨ Ready to open a PR with this change when you say go.
--->
